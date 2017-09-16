@@ -3,7 +3,7 @@ Books
 
 # From Good to Great
 #### 6/27/2017 - 9/14/2017
-Lots of companies are good, very few make the transision to great. Research focuses on companies with long history of good (~15yrs) and a transition to great with sustained results (~15yrs). Normalizes for industry performance, unsustained performance. Takes very intentional effort, but is not more work/pain than remaining mediocre. Summary of framework on p. 12 and below.
+Lots of companies are good, very few make the transision to great. Research focuses on companies with long history of good (~15yrs) and a transition to great with sustained results (~15yrs). Normalizes for industry performance, unsustained performance. Takes very intentional effort, but is not more work/pain than remaining mediocre. A lot of work/energy spent on efforts that do not drive great results; these are a waste. Summary of framework on p. 12 and below.
 
 Buildup
 - Level 5 leadership
