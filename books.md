@@ -1,12 +1,33 @@
 Books
 ---
-# The Goal
-#### 6/27/2017 - 
-...
 
 # From Good to Great
-#### 6/27/2017 - 
-...
+#### 6/27/2017 - 9/14/2017
+Lots of companies are good, very few make the transision to great. Research focuses on companies with long history of good (~15yrs) and a transition to great with sustained results (~15yrs). Normalizes for industry performance, unsustained performance. Takes very intentional effort, but is not more work/pain than remaining mediocre. Summary of framework on p. 12 and below.
+
+Buildup
+- Level 5 leadership
+- First who...then what
+- Confront the brutal facts, yet never lose faith (Stockdale paradox)
+
+Breakthrough
+- Hedegehog concept (simplicity in three circles)
+  - What can we be best in the world at, that drives our economic engine, that we are passionate about?
+- culture of discipline
+- technology accelorators
+
+Also, every two grouped by three phases of discipline: people, thought, action. Flywheel needs momentum to get started, but once it's going it can sustain and drive great results.
+
+
+# Chaos Monkeys
+#### ? - ?
+Autobiographical account of Physics PhD (drop out?) to quant at Goldman Sachs to SV Ad Tech to Y-Combinator to Twitter acqui-hire / Facebook ads PM. Mix of professional endeavors, personal life, and critique of it all. Second half focuses on account time at Facebook; focusing on work and culture, culminating in a bet on the wrong ad product, raising a stink and utlimately being fired.
+
+
+# The Goal
+#### 6/27/2017 - 7/29/2017
+Seek the true meaning of productivity, starting with the purpose of the business. Existing measures of productivity may be misleading and in themselves miss the big picture. What is the goal? How does this contribute to the goal?
+
 
 # Radical Candor
 #### ? - 6/27/2017
@@ -19,7 +40,7 @@ An engineers guide to maximizing impact per unit time or leverage in the workpla
 Three focus areas:
   1 - Optimizing your mindset (personal growth, prioritize to focus on high leverage activities)
   2 - Execution (speed up iteration, measure what yoactivityu want to improve, validate ideas ealry/often, improve estimation skills)
-  3  - Build long term value (quality vs. pragmatism, minimize operational load, invest in team) 
+  3  - Build long term value (quality vs. pragmatism, minimize operational load, invest in team)
 
 # Steve Jobs
 #### 2016 - 2017
@@ -38,11 +59,11 @@ Four tactics outlined in the book:
   2 - behave with urgency every day (yes, you)
   3 - find opportunity in crisis
   4 - deal with NoNos (skilled urgency killer, "everythings fine")
-  
+
 Urgency takes sustained effort.
-  
+
 --- below this line, needs better summaries.
-  
+
 # High Output Management
 #### 2016
 Classic guide to management. Functional vs. product organizational structure, 5-7 reports max + 1:1s, etc.
@@ -65,7 +86,7 @@ Building organizations is hard. Leadership requires being honest, which will res
 
 # Zero to One
 #### 2014?
-Obvious problems have been solved; what do you see that no one else does? 
+Obvious problems have been solved; what do you see that no one else does?
 
 # The Art of the Start
 #### 2014?
