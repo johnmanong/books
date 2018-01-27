@@ -5,12 +5,12 @@ Books
 #### 6/27/2017 - 9/14/2017
 Lots of companies are good, very few make the transision to great. Research focuses on companies with long history of good (~15yrs) and a transition to great with sustained results (~15yrs). Normalizes for industry performance, unsustained performance. Takes very intentional effort, but is not more work/pain than remaining mediocre. A lot of work/energy spent on efforts that do not drive great results; these are a waste. Summary of framework on p. 12 and below.
 
-Buildup
+**Buildup**
 - Level 5 leadership
 - First who...then what
 - Confront the brutal facts, yet never lose faith (Stockdale paradox)
 
-Breakthrough
+**Breakthrough**
 - Hedegehog concept (simplicity in three circles)
   - What can we be best in the world at, that drives our economic engine, that we are passionate about?
 - culture of discipline
@@ -51,7 +51,7 @@ Biography of Jobs' life, chronicalling the birth of Apple, success of Pixar, rev
 Optimize for learning about the underlying problem and user as quickly as possible and use the feedback to build the right solutions to the right problems. Don't waste time/engery building something that does not have impact. Validate all hypothesis.
 
 # A Sense of Urgency
-#### Early 2017 or end of 2016
+#### Early 2017
 Innovation starts with urgency. Complacency and false urgency (lots of activity on low or negative impact activities) will kill inovation. True urgency means people are focusing solving critically important problems now, saying no along the way.
 
 Four tactics outlined in the book:
